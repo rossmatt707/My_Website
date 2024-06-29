@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 function openForm() { // This function opens the contact form when the "Contact Me" button is clicked
     document.getElementById("myForm").style.display = "block"; // This line of code changes the display of the contact form to block
 }
